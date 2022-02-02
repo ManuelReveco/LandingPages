@@ -1,0 +1,33 @@
+body{
+    /*background-color: aqua;*/
+    background-image: url(image/libro.jpg);
+    background-repeat: repeat;
+    font-size: 38px;
+}
+div.formulario{
+    background-color: white;
+    width: 500px;
+    border-radius: 15px;
+    padding: 10px 20px;
+    margin: auto;
+}
+
+input{
+    font-size: 15px;
+    padding: 7px 10px;
+    border: 1px solid brown;
+    border-radius: 5px;
+}
+
+div.form-line{
+    margin-bottom: 10px;
+}
+
+select{
+    padding: 8px 20px;
+    font-size: 20px;
+    border-radius: 5px;
+    border: 1px solid brown;
+}
+
+
